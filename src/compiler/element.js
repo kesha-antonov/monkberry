@@ -18,7 +18,7 @@ export const SVGElements = (
   'feConvolveMatrix feDiffuseLighting feDisplacementMap feDistantLight feFlood feFuncA ' +
   'feFuncB feFuncG feFuncR feGaussianBlur feImage feMerge feMergeNode feMorphology feOffset ' +
   'fePointLight feSpecularLighting feSpotLight feTile feTurbulence g line linearGradient mask ' +
-  'path pattern polygon polyline radialGradient rect stop svg text tspan'
+  'path pattern polygon polyline radialGradient rect stop svg text tspan animate'
 ).split(' ');
 
 export default {
